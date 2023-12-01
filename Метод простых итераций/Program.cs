@@ -15,7 +15,7 @@ namespace Метод_простых_итераций
         }
         static void Main(string[] args)
         {
-            Console.WriteLine("  ");
+            Console.WriteLine("Hello");
             Console.WriteLine("Введите значение справа:");
             double a = double.Parse(Console.ReadLine());
             Console.WriteLine("Введите значение слева:");
